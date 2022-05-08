@@ -1,1 +1,6 @@
-# twiSTAR
+# TwiSTAR
+Twitter ha sido una red social recientemente reconocida como potencial detector de la opinión pública, en tanto que supone millones de ideas escritas por sus usuarios en agendas diversas. Dado que este escenario ha sido tan tentador para la academia como una forma de comprender la conversación en temas públicos, Twitter ha ido ampliando, por medio de su API, el acceso abierto al discurso de sus usuarios.
+
+Aprovechando la disponibilidad de la data proveniente de Twitter, las capacidades de TwiSTAR están centradas en la lectura de datos provenientes de la API, depuración de la información para perfilamiento de tendencias, polarización y subjetividad de opiniones sobre un tema, además de obtener palabras claves (keywords) que definen a la tendencia informativa/desinformativa, con el plus de brindar herramientas básicas de visualización gráfica del análisis.
+
+TwiSTAR puede ser implementado en Colab para un acceso sencillo, rápido y de fácil programación, para que pueda servir como una pequeña herramienta en el campo de divulgación y en el periodismo científico, con la finalidad de monitorear, focalizar e identificar tendencias y desinformación en ciencia. TwiSTAR como herramienta, permite a científicos, divulgadores, periodistas de fuente científica, expertos en comunicación de la ciencia y estudiantes, ejercer, gestionar e intervenir en favor deuna labor divulgativa en función de temáticas y contenidos con una alta carga viral y que pueda hacer contrapeso a tendencias de opinión con una carga desinformativa.
